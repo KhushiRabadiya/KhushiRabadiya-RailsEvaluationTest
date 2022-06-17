@@ -1,0 +1,10 @@
+.t1 td, th{
+  text-align: center;
+  border:1px solid black;
+}
+table{
+  width: 30%;
+}
+.message{
+  color: red;
+}
